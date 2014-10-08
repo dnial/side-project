@@ -1,0 +1,23 @@
+The very first question we at CNET get about Google Glass is: "What is it?" The next two are "What's it like to wear?" and "Why would you want to?"
+
+The frothing excitement around this prototype, titanium-framed wearable computer has the tech world tripping over itself in a mad dash for Glass access. Ten thousand or more Google Glass units are now shipping to beta testers and winners of the If I Had Glass contest -- for a $1,500 price tag. But the big what, why, and how questions remain.
+
+The answer, for now, is simple: Google Glass is Google on your face. These early frames ship with the ability to take the very most recent communications from your smartphone or Google accounts and show them to you in a head-up display. They take phone calls. They send texts, take photos and video, and show maps. They deliver search results. If you've played with Google Now, the Glass interface is strikingly similar. 
+
+ But the sky is the limit for Google and its army of developers. Right now, the experiences we have with these early devices are very personal ones shaped largely by the reaction of our community and daily needs. CNET got lucky enough to claim two Glass units -- one on each coast-- so we're going to write about this very different device in a different way.
+
+CNET Senior Editor Scott Stein will kick off this hands-on review of Glass first, giving his initial impressions from his New York/New Jersey life. CNET Reviews Editor in Chief Lindsey Turrentine will chime in next with her own perspective from the opposite coast (and the opposite gender). We'll walk you through Google Glass' realities and possibilities. Keep an eye on this review. It's going to get epic.
+
+Is this a real product, anyway?
+
+Google Glass Explorer Edition is intended for developers and "early testers," and while this group of customers may include those who feel like they can afford a $1,500 wearable device, everyday people aren't the primary target yet. But yes, Google Glass is a very real product, and it really works, but its app support remains pretty limited. It looks like Google Glass -- the consumer version -- will arrive sometime in 2014. In the meantime, app developers and Google will be using this model to develop software and experiences that will be incorporated into the consumer version. 
+
+Glass takes photos and videos, sends text messages, engages in FaceTime-like Google Hangouts, makes phone calls, searches Google, and gets turn-by-turn navigation with maps. It can show the weather, the time, and headlines from The New York Times that have been pushed to the device, with spoken headline summaries. For now, anyway, that's about it. Some features require tethering -- GPS-based functions that use the phone, such as turn-by-turn directions. Others, like Google Hangouts and Google Search, can also be performed over Wi-Fi. When offline, Glass only takes photos and videos.
+
+This product is often incorrectly referred to as "Google Glasses" with good reason. But it's really more of a lensless eyeglasses frame, with a mobile computing device built into the stem that sits on your right ear. That right arm wraps around to a small transparent display that sits above your right eye. Imagine if a wearable side-mounted camera grew a glasses-frame construct, and that's Glass.
+
+Glass is lightweight, more so than you'd think. The titanium frame is bendable. Little nose contacts can be bent and adjusted for individual fit. The right side of Glass has a thick back part that houses the battery, and all the rest of the electronics: buttons, touch pads, and speaker.
+
+The Glass Explorer package comes with the Glass unit itself (in a variety of colors), a snap-on sunglasses visor, a clear visor, and a Micro-USB charger. There's a rigid cloth pouch to store Glass in, but the frame can't be folded up like regular sunglasses -- at least, in its current iteration. It's more like a visor, so you'd need some sort of larger bag.
+
+Glass runs on Android, but can connect to both iOS and Android devices. It can connect via Bluetooth or Wi-Fi to a phone, a laptop, or a home Wi-Fi network, or even work alone as a disconnected offline camera. The 5-megapixel camera shoots 720p video, 10 seconds at a time by default. It has 12.5GB of onboard storage and a battery that's meant to last a day.
